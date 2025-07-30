@@ -31,3 +31,6 @@ def daily_commit():
 
 if __name__ == "__main__":
     daily_commit()
+
+chmod +x commit.sh
+./commit.sh
